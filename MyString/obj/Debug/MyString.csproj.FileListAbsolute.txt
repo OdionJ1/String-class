@@ -1,0 +1,21 @@
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\bin\Debug\MyString.exe.config
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\bin\Debug\MyString.exe
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\bin\Debug\MyString.pdb
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\obj\Debug\MyString.csprojAssemblyReference.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\obj\Debug\MyString.csproj.CoreCompileInputs.cache
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\obj\Debug\MyString.exe
+N:\ACESstaff\Academic\AWA\Mo's Folder\COMPUTER PROGRAMMING\Learning Material 2020-21\MyString\MyString\MyString\obj\Debug\MyString.pdb
+C:\Users\cmsmr2\Desktop\MyString\MyString\bin\Debug\MyString.exe.config
+C:\Users\cmsmr2\Desktop\MyString\MyString\bin\Debug\MyString.exe
+C:\Users\cmsmr2\Desktop\MyString\MyString\bin\Debug\MyString.pdb
+C:\Users\cmsmr2\Desktop\MyString\MyString\obj\Debug\MyString.csprojAssemblyReference.cache
+C:\Users\cmsmr2\Desktop\MyString\MyString\obj\Debug\MyString.csproj.CoreCompileInputs.cache
+C:\Users\cmsmr2\Desktop\MyString\MyString\obj\Debug\MyString.exe
+C:\Users\cmsmr2\Desktop\MyString\MyString\obj\Debug\MyString.pdb
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\obj\Debug\MyString.csproj.CoreCompileInputs.cache
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\obj\Debug\MyString.exe
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\obj\Debug\MyString.pdb
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\bin\Debug\MyString.exe.config
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\bin\Debug\MyString.exe
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\bin\Debug\MyString.pdb
+C:\Users\odion\OneDrive - Sheffield Hallam University\SHU MSC\Computer Programming\MyString V2\MyString\MyString\obj\Debug\MyString.csproj.AssemblyReference.cache
